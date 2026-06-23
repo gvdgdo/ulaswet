@@ -2,6 +2,24 @@
 
 ## Guido Governatori (Central Queensland Univesity) and Monica Palmirani (University of Bologna)
 
+#### Abstract
+
+Legal automation requires not only the ability to represent legal texts 
+in structured formats but also to capture their normative meaning in a way 
+that supports automated reasoning. This tutorial focuses on two key standards 
+Akoma Ntoso for the semantic representation of legal documents and LegalRuleML 
+for modelling legal rules and norms—to enable end-to-end legal automation.
+
+Participants will learn how to transform unstructured legal texts into richly 
+annotated, machine-readable documents using Akoma Ntoso, and how to express 
+obligations, permissions, prohibitions, and exceptions using LegalRuleML. 
+The tutorial will demonstrate how these knowledge based technologies can be 
+combined to build automated compliance systems, support legal reasoning, and 
+deliver explainable outcomes. Real-world use cases from regulatory compliance 
+and policy-driven systems will illustrate how these standards bridge the gap 
+between legal drafting and executable models.
+
+
 ### Motivation and relevance
 
 The increasing complexity of legal systems and the growing demand for
