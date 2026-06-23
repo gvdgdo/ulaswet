@@ -2,8 +2,7 @@
 
 ## Guido Governatori (Central Queensland Univesity) and Monica Palmirani (University of Bologna)
 
-
-# Motivation and relevance
+### Motivation and relevance
 
 The increasing complexity of legal systems and the growing demand for
 efficient compliance solutions have highlighted the need for advanced
@@ -26,28 +25,7 @@ artificial intelligence, and knowledge representation, as it offers
 practical insights into how these standards can be applied to real-world
 legal automation challenges.
 
-# Previous Editions and Related Events
-
-This tutorial builds on tutorials and lectures delivered at the
-International Conference on Artificial Intelligence and Law (ICAIL) and
-the Legal Knowledge and Information Systems (JURIX) conference on Legal
-Reasoning and Automated Compliance. Related tutorials have been
-delivered at RuleML+RR conference. Akoma Ntoso and LegalRuleML are part
-of the curriculum of the LEX Summer School. The tutorial incorporates
-feedback from past participants to enhance the content and delivery,
-ensuring that it remains relevant and practical for current legal
-automation challenges.
-
-While techniques for legal automation have been traditionally presented
-in AI a and Law and Legal Informatics conferences, more and more
-researchers from related fields such as knowledge representation,
-semantic web, and rule-based systems are showing interest in the
-application of their techniques to legal domain and legal automation.
-This tutorial is designed to bridge the gap between these communities
-and provide a comprehensive overview of how knowledge based technologies
-can be applied to legal automation using semantic web standards.
-
-# Content, format and program
+### Content, format and program
 
 The tutorial will be structured into several sections, each focusing on
 a specific aspect of legal automation using semantic web technologies.
@@ -56,7 +34,7 @@ applications, with hands-on demonstrations to illustrate key points.
 
 Specifically, the tutorial will cover the following topics:
 
-## Introduction to Legal Automation
+#### Introduction to Legal Automation
 
 - Challenges in interpreting and operationalising legal texts
 
@@ -64,7 +42,7 @@ Specifically, the tutorial will cover the following topics:
 
 - Overview of standards for legal knowledge representation
 
-## Akoma Ntoso: Structuring Legal Documents
+#### Akoma Ntoso: Structuring Legal Documents
 
 - Principles of Akoma Ntoso (XML-based legal document standard)
 
@@ -76,7 +54,7 @@ Specifically, the tutorial will cover the following topics:
 
 - Annotating legal elements for temporal elements
 
-## From Text to Norms
+#### From Text to Norms
 
 - Extracting norms from structured legal documents
 
@@ -84,7 +62,7 @@ Specifically, the tutorial will cover the following topics:
 
 - Role of metadata and document structure in legal interpretation
 
-## LegalRuleML: Modelling Legal Norms
+#### LegalRuleML: Modelling Legal Norms
 
 - Overview of LegalRuleML and its foundations
 
@@ -95,7 +73,7 @@ Specifically, the tutorial will cover the following topics:
 
 - Capturing temporal and contextual aspects of norms
 
-## Linking Akoma Ntoso and LegalRuleML
+#### Linking Akoma Ntoso and LegalRuleML
 
 - Transforming Akoma Ntoso documents into LegalRuleML rules
 
@@ -103,7 +81,7 @@ Specifically, the tutorial will cover the following topics:
 
 - Traceability between legal sources and executable rules
 
-## Rule-Based Reasoning and Compliance Checking
+#### Rule-Based Reasoning and Compliance Checking
 
 - Execution of LegalRuleML rules using rule engines
 
@@ -111,7 +89,7 @@ Specifically, the tutorial will cover the following topics:
 
 - Automated compliance verification workflows
 
-## Explainability and Legal Traceability
+#### Explainability and Legal Traceability
 
 - Generating explanations grounded in legal sources
 
@@ -119,7 +97,7 @@ Specifically, the tutorial will cover the following topics:
 
 - Supporting auditability and accountability
 
-## Hands-on Demonstration
+#### Hands-on Demonstration
 
 - Annotating a legal text in Akoma Ntoso
 
@@ -127,20 +105,14 @@ Specifically, the tutorial will cover the following topics:
 
 - Running a simple compliance check
 
-# Tutorial type and intended audience
-
-## Type
-
-Full day.
-
-## Level
+### Level
 
 The tutorial is designed for an audience with a basic understanding of
 semantic web technologies and legal informatics. It will cover both
 theoretical concepts and practical applications, making it suitable for
 both researchers and practitioners in the field of legal automation.
 
-## Target Audience
+### Target Audience
 
 This tutorial is intended for researchers and practitioners interested
 in the application of semantic web technologies to legal automation. It
@@ -148,16 +120,16 @@ is suitable for those with a background in computer science, artificial
 intelligence, and legal informatics, as well as legal professionals
 interested in the intersection of law and technology.
 
-## Prerequisites
+### Prerequisites
 
 Participants are expected to have a basic understanding of semantic web
 technologies (e.g., XML, RDF). Familiarity with legal document
 structures and normative concepts (e.g., obligations, permissions) will
 be beneficial but is not required.
 
-# Presenters's Information
+## Presenters's Information
 
-## Guido Governatori
+### Guido Governatori
 
 Guido Governatori is a professor of Information and Communication
 Technology at Central Queensland University, Australia. He received hid
@@ -186,7 +158,7 @@ l <http://www.governatori.net/>\
 <https://orcid.org/0000-0002-9878-2762>
 :::
 
-## Monica Palmirani
+### Monica Palmirani
 
 Monica Palmirani is Full Professor of Computer Science and Law and Legal
 Informatics at the University of Bologna, School of Law. She co-chairs
@@ -213,13 +185,3 @@ l <https://www.unibo.it/sitoweb/monica.palmirani/en>\
 <https://orcid.org/0000-0002-8557-8084>
 :::
 
-# Material
-
-The tutorial will provide participants with access to all presentation
-materials, including slides, code examples, and reference documents (the
-Akoma Ntoso and LegalRuleML standards are available from the OASIS web
-site).
-
-In addition, participants will have access to Akoma Ntoso and
-LegalRuleML tools and resources, including software for annotating legal
-texts and executing legal rules.
