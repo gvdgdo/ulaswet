@@ -1,3 +1,6 @@
+<img width="1106" height="652" alt="logo-completo-full" src="https://github.com/user-attachments/assets/09deab24-685f-440c-a0b8-419a7ef5ab2f" />
+
+
 # Unlocking Legal Automation with Semantic Web Technology
 
 ## Guido Governatori (Central Queensland Univesity) and Monica Palmirani (University of Bologna)
@@ -201,5 +204,10 @@ l <https://www.unibo.it/sitoweb/monica.palmirani/en>\
 <https://scholar.google.com/citations?user=G5C54V4AAAAJ&hl=en>\
 <https://en.wikipedia.org/wiki/Monica_Palmirani>\
 <https://orcid.org/0000-0002-8557-8084>
+
+### Acknowledgements
+This tutorial is organised with the support of the ERC HE project 
+HyperModeLex, GA N.101055185, PI prof.ssa Monica Palmirani, University 
+of Bologna
 :::
 
