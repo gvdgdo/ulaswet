@@ -1,7 +1,7 @@
 <img src="logo-completo-full.png" alt="Alt text" width="500">
 
-# Unlocking Legal Automation with Semantic Web Technolog
-## EKAW 2026, Turin, Septermber 29, 2026
+# Unlocking Legal Automation with Semantic Web Technology
+## [EKAW 2026](https://ekaw2026.di.unito.it), Turin, Septermber 29, 2026
 
 ## Guido Governatori (Central Queensland Univesity) and Monica Palmirani (University of Bologna)
 
