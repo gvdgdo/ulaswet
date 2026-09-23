@@ -208,5 +208,5 @@ l <https://www.unibo.it/sitoweb/monica.palmirani/en>\
 This tutorial is organised with the support of the ERC HE project 
 HyperModeLex, GA N.101055185, PI prof.ssa Monica Palmirani, University 
 of Bologna
-:::
+
 
