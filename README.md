@@ -1,4 +1,4 @@
-
+<img src="logo-completo-full.png" alt="Alt text" width="500">
 
 # Unlocking Legal Automation with Semantic Web Technology
 
