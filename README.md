@@ -1,4 +1,3 @@
-<img width="1106" height="652" alt="logo-completo-full" src="https://github.com/user-attachments/assets/09deab24-685f-440c-a0b8-419a7ef5ab2f" />
 
 
 # Unlocking Legal Automation with Semantic Web Technology
