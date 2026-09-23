@@ -172,12 +172,11 @@ Summer School.
 
 Websites:
 
-::: tabular
-l <http://www.governatori.net/>\
+<http://www.governatori.net/>\
 <https://scholar.google.com/citations?user=cT0QCq0AAAAJ&hl=en>\
 <https://www.researchgate.net/profile/Guido-Governatori>\
 <https://orcid.org/0000-0002-9878-2762>
-:::
+
 
 ### Monica Palmirani
 
@@ -199,15 +198,13 @@ Investigator of the Jean Monnet Module on Legal Design.
 
 Websites:
 
-::: tabular
-l <https://www.unibo.it/sitoweb/monica.palmirani/en>\
+<https://www.unibo.it/sitoweb/monica.palmirani/en>\
 <https://scholar.google.com/citations?user=G5C54V4AAAAJ&hl=en>\
 <https://en.wikipedia.org/wiki/Monica_Palmirani>\
 <https://orcid.org/0000-0002-8557-8084>
 
 ### Acknowledgements
-This tutorial is organised with the support of the ERC HE project 
-HyperModeLex, GA N.101055185, PI prof.ssa Monica Palmirani, University 
-of Bologna
+The tutorial is part of [EKWA2026](https://ekaw2026.di.unito.it), Turin, 29 September 2026
 
+This tutorial is organised with the support of the [ERC HE project HyperModeLex](https://site.unibo.it/hypermodelex/en), GA N.101055185, PI prof.ssa Monica Palmirani, University of Bologna.
 
